@@ -35,7 +35,7 @@ Tic-Tac-Toe
 Follow these steps to run the project locally:
 
 1. Clone the repository
-   git clone https://github.com/Ankit-Chauhan-Dev/Tic-Tac-Toe.git
+   git clone https://ankit-chauhan-dev.github.io/Tic-Tac-Toe/
 
 2. Navigate to the project directory.
 
